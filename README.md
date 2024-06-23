@@ -1,16 +1,19 @@
-## Hi there 👋
+<pre>
+__/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/\\\\\______        
+ _\/\\\_______\/\\\_\/\\\///////////__\/\\\_____________\/\\\_________________/\\\///\\\____       
+  _\/\\\_______\/\\\_\/\\\_____________\/\\\_____________\/\\\_______________/\\\/__\///\\\__      
+   _\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\_____\/\\\_____________\/\\\______________/\\\______\//\\\_     
+    _\/\\\/////////\\\_\/\\\///////______\/\\\_____________\/\\\_____________\/\\\_______\/\\\_    
+     _\/\\\_______\/\\\_\/\\\_____________\/\\\_____________\/\\\_____________\//\\\______/\\\__   
+      _\/\\\_______\/\\\_\/\\\_____________\/\\\_____________\/\\\______________\///\\\__/\\\____  
+       _\/\\\_______\/\\\_\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\\\\\____\///\\\\\/_____ 
+        _\///________\///__\///////////////__\///////////////__\///////////////_______\/////_______
 
-<!--
-**zit0cod3z/zit0cod3z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<strong>Welcome to my GitHub profile.</strong>
+</pre>
+<pre>
+~ $ cat info.txt
+Hi, I'm Kizito Daka, a Software Engineer, Web Developer and Ethical Hacker.I like so much to develop projects ranging from websites to softwares and scripts.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+~ $ sudo rm -rf /*
+</pre>
