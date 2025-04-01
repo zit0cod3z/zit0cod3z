@@ -20,7 +20,7 @@ Hi, I'm Kizito Daka, a Software Engineer, Web Developer and Ethical Hacker.I lik
 
 
 
-## 🔧 Technical Expertise
+## Languages
 <div align="center">
 
 ### 🌐 Web Development
@@ -53,6 +53,7 @@ Hi, I'm Kizito Daka, a Software Engineer, Web Developer and Ethical Hacker.I lik
 ### 🗄️ Database Management
 <p>
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+ <img src="https://img.shields.io/badge/NoSQL-%23000.svg?style=flat&logo=nosql" alt="NoSQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
@@ -62,5 +63,6 @@ Hi, I'm Kizito Daka, a Software Engineer, Web Developer and Ethical Hacker.I lik
 <p>
   <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=flat&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/BeautifulSoup-%23FFD43B.svg?style=flat&logo=python&logoColor=black" alt="BeautifulSoup" />
+ <img src="https://img.shields.io/badge/Gecko-%23000.svg?style=flat&logo=geckodriver" alt="gecko" />
 </p>
 </div>
