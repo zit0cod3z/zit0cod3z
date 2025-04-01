@@ -25,13 +25,13 @@ Hi, I'm Kizito Daka, a Software Engineer, Web Developer and Ethical Hacker.I lik
 ### 🌐 Web Development
 <p>
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask" alt="Flask" />
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Nodejs-%23000.svg?style=flat&logo=nodejs" alt="Nodejs" />
-  <img src="https://img.shields.io/badge/PHP-%23000.svg?style=flat&logo=php" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-%23000.svg?style=flat&logo=laravel" alt="Laravel" />
-  <img src="https://img.shields.io/badge/C-%23000.svg?style=flat&logo=c" alt="C" />
-  <img src="https://img.shields.io/badge/C++-%23000.svg?style=flat&logo=c++" alt="C++" />
+  <img src="https://img.shields.io/badge/Nodejs-%23000.svg?style=flat&logo=nodejs&logoColor=white" alt="Nodejs" />
+  <img src="https://img.shields.io/badge/PHP-%23000.svg?style=flat&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-%23000.svg?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/C-%23000.svg?style=flat&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-%23000.svg?style=flat&logo=c++&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/WordPress-%23000.svg?style=flat&logo=wordpress" alt="WordPress" />
 </p>
 
@@ -52,7 +52,7 @@ Hi, I'm Kizito Daka, a Software Engineer, Web Developer and Ethical Hacker.I lik
 ### 🗄️ Database Management
 <p>
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
- <img src="https://img.shields.io/badge/NoSQL-%23000.svg?style=flat&logo=nosql" alt="NoSQL" />
+  <img src="https://img.shields.io/badge/NoSQL-%23000.svg?style=flat&logo=nosql&logoColor=white" alt="NoSQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
@@ -62,6 +62,6 @@ Hi, I'm Kizito Daka, a Software Engineer, Web Developer and Ethical Hacker.I lik
 <p>
   <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=flat&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/BeautifulSoup-%23FFD43B.svg?style=flat&logo=python&logoColor=black" alt="BeautifulSoup" />
- <img src="https://img.shields.io/badge/Gecko-%23000.svg?style=flat&logo=geckodriver" alt="gecko" />
+  <img src="https://img.shields.io/badge/Gecko-%23000.svg?style=flat&logo=gecko&logoColor=white" alt="gecko" />
 </p>
 </div>
