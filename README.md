@@ -29,10 +29,10 @@ Hi, I'm Kizito Daka, a Software Engineer, Web Developer and Ethical Hacker.I lik
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/PHP-%23000.svg?style=flat&logo=php" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-%23000.svg?style=flat&logo=php" alt="Laravel" />
-  <img src="https://img.shields.io/badge/C-%23000.svg?style=flat&logo=php" alt="C" />
-  <img src="https://img.shields.io/badge/C++-%23000.svg?style=flat&logo=php" alt="C++" />
-  <img src="https://img.shields.io/badge/WordPress-%23000.svg?style=flat&logo=php" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Laravel-%23000.svg?style=flat&logo=laravel" alt="Laravel" />
+  <img src="https://img.shields.io/badge/C-%23000.svg?style=flat&logo=c" alt="C" />
+  <img src="https://img.shields.io/badge/C++-%23000.svg?style=flat&logo=c++" alt="C++" />
+  <img src="https://img.shields.io/badge/WordPress-%23000.svg?style=flat&logo=wordpress" alt="WordPress" />
 </p>
 
 ### 📱 Mobile Development
