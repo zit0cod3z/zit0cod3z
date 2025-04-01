@@ -65,3 +65,36 @@ Hi, I'm Kizito Daka, a Software Engineer, Web Developer and Ethical Hacker.I lik
   <img src="https://img.shields.io/badge/Gecko-%23000.svg?style=flat&logo=gecko&logoColor=white" alt="gecko" />
 </p>
 </div>
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zit0cod3z&show_icons=true&theme=radical" alt="zit0cod3z's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zit0cod3z&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zit0cod3z&theme=radical" alt="GitHub Trophies" />
+</div>
+
+## 📬 Connect with Me
+- **GitHub**: [zit0cod3z](https://github.com/zit0cod3z/)  
+- **Twitter**: [@zitocod3z](https://twitter.com/zitocod3z/)  
+- **Instagram**: [@zitoc0d3z](https://www.instagram.com/zitoc0d3z/)
+- **Telegram**: [@zit0c0d3z](https://telegram.me/zit0c0d3z/)
+
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <p>Visitor Count</p>
+  <img src="https://profile-counter.glitch.me/zit0cod3z/count.svg" alt="Profile Visitor Count" />
+</div>
+
+<!-- Fun Gimmicks -->
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Passionate+About+Code;Coderholic;Always+Learning;Keep+Calm+Kizito+Go+Run+Am" alt="Typing SVG" />
+</div>
+<div align="center">
+
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ and support 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 my 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+
+</div>
