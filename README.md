@@ -57,7 +57,6 @@ Hi, I'm Kizito Daka, a Software Engineer, Web Developer and Ethical Hacker.I lik
 ### 🗄️ Database Management
 <p>
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/NoSQL-%23000.svg?style=flat&logo=nosql&logoColor=white" alt="NoSQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
