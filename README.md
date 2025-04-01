@@ -20,7 +20,6 @@ Hi, I'm Kizito Daka, a Software Engineer, Web Developer and Ethical Hacker.I lik
 
 
 
-## Languages
 <div align="center">
 
 ### 🌐 Web Development
