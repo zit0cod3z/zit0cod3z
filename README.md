@@ -21,6 +21,11 @@ Hi, I'm Kizito Daka, a Software Engineer, Web Developer and Ethical Hacker.I lik
 
 
 <div align="center">
+  <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif?cid=ecf05e47vuvvaegtv5aq73ji6z7ookew60v5bsit8jrp3bqw&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding GIF" width="200"/>
+  <p><strong>Coding is my superpower!</strong></p>
+</div>
+
+<div align="center">
 
 ### 🌐 Web Development
 <p>
