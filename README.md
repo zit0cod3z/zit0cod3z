@@ -29,17 +29,7 @@ Hi, I'm Kizito Daka, a Software Engineer, Web Developer and Ethical Hacker.I lik
 
 ### 🌐 Web Development
 <p>
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Nodejs-%23000.svg?style=flat&logo=nodejs&logoColor=white" alt="Nodejs" />
-  <img src="https://img.shields.io/badge/PHP-%23000.svg?style=flat&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-%23000.svg?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/C-%23000.svg?style=flat&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-%23000.svg?style=flat&logo=c++&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/WordPress-%23000.svg?style=flat&logo=wordpress" alt="WordPress" />
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,py,django,nodejs,php,laravel,flask,git,c,cpp,flutter,wordpress,cloudflare,aws,gcp,react" />
-</p>
 </p>
 
 ### 📱 Mobile Development
