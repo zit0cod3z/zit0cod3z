@@ -29,7 +29,7 @@ Hi, I'm Kizito Daka, a Software Engineer, Web Developer and Ethical Hacker.I lik
 
 ### 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,py,django,nodejs,php,laravel,flask,git,c,cpp,flutter,wordpress,cloudflare,aws,gcp,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,py,django,nodejs,react,php,laravel,flask,git,c,cpp,flutter,wordpress,cloudflare,aws,gcp" />
 </p>
 
 ### 📱 Mobile Development
