@@ -79,11 +79,6 @@ Hi, I'm Kizito Daka, a Software Engineer, Web Developer and Ethical Hacker.I lik
 - **Instagram**: [@zitoc0d3z](https://www.instagram.com/zitoc0d3z/)
 - **Telegram**: [@zit0c0d3z](https://telegram.me/zit0c0d3z/)
 
-<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-
-
-</div>
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzit0cod3z&label=Total%20profile%20visits&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fzit0cod3z)
 
 <!-- Fun Gimmicks -->
 
