@@ -80,11 +80,10 @@ Hi, I'm Kizito Daka, a Software Engineer, Web Developer and Ethical Hacker.I lik
 - **Telegram**: [@zit0c0d3z](https://telegram.me/zit0c0d3z/)
 
 <div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <p>Visitor Count</p>
-  <img src="https://profile-counter.glitch.me/zit0cod3z/count.svg" alt="Profile Visitor Count" />
- [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzit0cod3z&label=Total%20profile%20visits&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fzit0cod3z)
+
 
 </div>
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzit0cod3z&label=Total%20profile%20visits&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fzit0cod3z)
 
 <!-- Fun Gimmicks -->
 
