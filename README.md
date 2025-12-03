@@ -62,12 +62,6 @@ Hi, I'm Kizito Daka, a Software Engineer, Web Developer and Ethical Hacker.I lik
 </p>
 </div>
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zit0cod3z&show_icons=true&theme=radical" alt="zit0cod3z's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zit0cod3z&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zit0cod3z&theme=radical" alt="GitHub Trophies" />
